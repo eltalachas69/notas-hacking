@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/what's a net cat.md",
+                "file": "PicoCTF/plumbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what's a net cat"
+              "title": "plumbing"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/what's a net cat.md",
+                "file": "PicoCTF/plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   "active": "11606d7a3442e14a",
   "lastOpenFiles": [
     "plantilla.md",
+    "PicoCTF/plumbing.md",
     "PicoCTF/what's a net cat.md",
     "PicoCTF/2Warm.md",
     "PicoCTF/Bases.md",
