@@ -11,10 +11,14 @@
             "id": "11606d7a3442e14a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/what's a net cat.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "what's a net cat"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/what's a net cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +189,11 @@
   },
   "active": "11606d7a3442e14a",
   "lastOpenFiles": [
+    "plantilla.md",
+    "PicoCTF/what's a net cat.md",
     "PicoCTF/2Warm.md",
     "PicoCTF/Bases.md",
     "PicoCTF/Obedient Cat.md",
-    "plantilla.md",
     "PicoCTF/Warmed Up.md",
     "PicoCTF/Lets Warm Up.md",
     "PicoCTF/First Grep.md",
