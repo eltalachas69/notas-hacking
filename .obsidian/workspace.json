@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Glitch Cat.md",
+                "file": "PicoCTF/Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glitch Cat"
+              "title": "Nice netcat..."
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Glitch Cat.md",
+                "file": "PicoCTF/Nice netcat....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   "active": "11606d7a3442e14a",
   "lastOpenFiles": [
     "plantilla.md",
+    "PicoCTF/Nice netcat....md",
     "PicoCTF/Glitch Cat.md",
     "PicoCTF/plumbing.md",
     "PicoCTF/what's a net cat.md",
