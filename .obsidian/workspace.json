@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "PicoCTF/Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "Bases"
             }
           }
         ],
@@ -235,9 +235,10 @@
   "lastOpenFiles": [
     "PicoCTF/Warmed Up.md",
     "PicoCTF/Lets Warm Up.md",
-    "PicoCTF/2Warm.md",
     "plantilla.md",
     "README.md",
+    "PicoCTF/Bases.md",
+    "PicoCTF/2Warm.md",
     "plantilla 1.md",
     "Bienvenido.md",
     "Sin nombre",
