@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lets Warm Up.md",
+                "file": "PicoCTF/Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,10 +203,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "63a112456b988e1d",
+  "active": "fc537ca68437d66b",
   "lastOpenFiles": [
     "plantilla.md",
-    "Lets Warm Up.md",
+    "PicoCTF/Lets Warm Up.md",
     "README.md",
     "plantilla 1.md",
     "Bienvenido.md",
