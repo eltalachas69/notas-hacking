@@ -9,7 +9,7 @@ import socket
 import re
 
 host = 'fickle-tempest.picoctf.net'
-port = 53418
+port = 49687
 
 conectarse = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 conectarse.connect((host, port))
@@ -36,8 +36,7 @@ def decodificar_dato(texto):
        return texto_hexadecimal
 
 def mandar_mensaje(mensaje):
-    premensaje = decodificar_dato(texto)
-    enviar_mensaje = premensaje+"\n"
+    enviar_mensaje = mensaje+"\n"
     conectarse.sendall(enviar_mensaje.encode('utf-8'))
 
 while True:
@@ -48,6 +47,7 @@ while True:
        print(texto)
        mensaje = decodificar_dato(texto)
        mandar_mensaje(mensaje)
+
 
 
 
