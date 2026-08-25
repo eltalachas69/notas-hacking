@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fea78262caea0dfc",
+        "id": "4fc7cd379dacb9f0",
         "type": "tabs",
         "children": [
           {
-            "id": "35673395895b809e",
+            "id": "22e15a294a774c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GeneralSkills_2/First-Find.md",
+                "file": "PicoCTF/GeneralSkills_3/Super-ssh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First-Find"
+              "title": "Super-ssh"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "runme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,35 +188,42 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "35673395895b809e",
+  "active": "22e15a294a774c6e",
   "lastOpenFiles": [
+    "PicoCTF/GeneralSkills_3/Serpentine.md",
+    "PicoCTF/GeneralSkills_3/runme.py.md",
+    "PicoCTF/GeneralSkills_3/PW-Crack-3.md",
+    "PicoCTF/GeneralSkills_3/PW-Crack-2.md",
+    "PicoCTF/GeneralSkills_3/PW-Crack-1.md",
+    "PicoCTF/GeneralSkills_3/fixme2.md",
+    "PicoCTF/GeneralSkills_3/fixme1.md",
+    "PicoCTF/GeneralSkills_3/convertme.py.md",
+    "PicoCTF/GeneralSkills_3/Codebook.md",
     "plantilla.md",
+    "PicoCTF/GeneralSkills_3/Super-ssh.md",
+    "PicoCTF/Personal/The-Beginner/Insp3ct0r.md",
+    "PicoCTF/Personal/The-Beginner/PW-Crack-1.md",
+    "README.md",
+    "PicoCTF/GeneralSkills_3",
+    "PicoCTF/Personal/The-Beginner/where-are-the-robots.md",
+    "PicoCTF/GeneralSkills_1/Bases.md",
+    "PicoCTF/Personal/The-Beginner/mod-26.md",
+    "PicoCTF/GeneralSkills_1/what's a net cat.md",
+    "PicoCTF/Personal/General_Skills/python-wrangling.md",
+    "PicoCTF/Personal/The-Beginner",
+    "PicoCTF/GeneralSkills_1/Warmed Up.md",
+    "PicoCTF/Personal/General_Skills",
+    "PicoCTF/GeneralSkills_1/Lets Warm Up.md",
+    "PicoCTF/GeneralSkills_1/First Grep.md",
+    "PicoCTF/Personal/Sleuthkit_Series/Sleuthkit-Apprentice.md",
+    "PicoCTF/Personal/Sleuthkit_Series/Sleuthkit-Intro.md",
     "PicoCTF/GeneralSkills_2/First-Find.md",
+    "PicoCTF/Personal/Sleuthkit_Series",
+    "PicoCTF/Personal",
     "PicoCTF/GeneralSkills_2/Big-zip.md",
-    "PicoCTF/GeneralSkills_2/Magikarp-Ground-Mission.md",
-    "PicoCTF/GeneralSkills_2/repetitions.md",
-    "PicoCTF/GeneralSkills_2/Static-ain't-always-noise.md",
-    "PicoCTF/GeneralSkills_2/Strings-it.md",
-    "PicoCTF/GeneralSkills_2/Tab-Tab-Attack.md",
-    "PicoCTF/GeneralSkills_2/useless.md",
-    "PicoCTF/GeneralSkills_2/wave-a-flag.md",
-    "PicoCTF/GeneralSkills_2/Based.md",
     "PicoCTF/GeneralSkills_2",
     "PicoCTF/GeneralSkills_1",
     "Sin nomre",
-    "PicoCTF/GeneralSkills_1/First Grep.md",
-    "PicoCTF/GeneralSkills_1/Glitch Cat.md",
-    "PicoCTF/GeneralSkills_1/Nice netcat....md",
-    "PicoCTF/GeneralSkills_1/plumbing.md",
-    "PicoCTF/GeneralSkills_1/what's a net cat.md",
-    "PicoCTF/GeneralSkills_1/2Warm.md",
-    "PicoCTF/GeneralSkills_1/Bases.md",
-    "PicoCTF/GeneralSkills_1/Obedient Cat.md",
-    "PicoCTF/GeneralSkills_1/Warmed Up.md",
-    "PicoCTF/GeneralSkills_1/Lets Warm Up.md",
-    "README.md",
-    "plantilla 1.md",
-    "Bienvenido.md",
     "PicoCTF"
   ]
 }
