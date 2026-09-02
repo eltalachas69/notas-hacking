@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GeneralSkills_Tarea/Time-Machine.md",
+                "file": "PicoCTF/Web1/picobrowser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time-Machine"
+              "title": "picobrowser"
             }
           }
         ]
@@ -190,6 +190,15 @@
   },
   "active": "22e15a294a774c6e",
   "lastOpenFiles": [
+    "PicoCTF/Web1/logon.md",
+    "PicoCTF/Web1/where-are-the-robots.md",
+    "plantilla.md",
+    "PicoCTF/Web1/picobrowser.md",
+    "PicoCTF/Web1/dont-use-client-side.md",
+    "PicoCTF/Web1/Insp3ct0r.md",
+    "PicoCTF/Web1/Client-side-again.md",
+    "PicoCTF/GeneralSkills_Tarea/Time-Machine.md",
+    "PicoCTF/Web1",
     "PicoCTF/GeneralSkills_Tarea/Permissions.md",
     "PicoCTF/GeneralSkills_Tarea/Commitment-Issues.md",
     "PicoCTF/GeneralSkills_Tarea/chrono.md",
@@ -197,8 +206,6 @@
     "PicoCTF/GeneralSkills_Tarea/Blame-Game.md",
     "PicoCTF/GeneralSkills_Tarea/binhexa.md",
     "PicoCTF/GeneralSkills_Tarea/Binary-Search.md",
-    "PicoCTF/GeneralSkills_Tarea/Time-Machine.md",
-    "plantilla.md",
     "PicoCTF/GeneralSkills_Tarea/Special.md",
     "README.md",
     "PicoCTF/GeneralSkills_Tarea/ASCII Numbers.md",
@@ -211,20 +218,13 @@
     "PicoCTF/GeneralSkills_3/PW-Crack-2.md",
     "PicoCTF/GeneralSkills_3/PW-Crack-1.md",
     "PicoCTF/GeneralSkills_3/fixme2.md",
-    "PicoCTF/GeneralSkills_3/fixme1.md",
-    "PicoCTF/GeneralSkills_3/Codebook.md",
-    "PicoCTF/Personal/The-Beginner/Insp3ct0r.md",
-    "PicoCTF/Personal/The-Beginner/PW-Crack-1.md",
     "PicoCTF/GeneralSkills_3",
-    "PicoCTF/Personal/The-Beginner/where-are-the-robots.md",
-    "PicoCTF/GeneralSkills_1/Bases.md",
     "PicoCTF/Personal/The-Beginner",
     "PicoCTF/Personal/General_Skills",
     "PicoCTF/Personal/Sleuthkit_Series",
     "PicoCTF/Personal",
     "PicoCTF/GeneralSkills_2",
     "PicoCTF/GeneralSkills_1",
-    "Sin nomre",
-    "PicoCTF"
+    "Sin nomre"
   ]
 }
