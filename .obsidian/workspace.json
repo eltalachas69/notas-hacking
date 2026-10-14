@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/Crypto/Crypto 2/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "rsa-pop-quiz"
             }
           }
         ]
@@ -190,12 +190,14 @@
   },
   "active": "3a5e2d8a476a705b",
   "lastOpenFiles": [
-    "Sin título.base",
+    "plantilla.md",
+    "PicoCTF/Crypto/Crypto 2/rsa-pop-quiz.md",
     "README.md",
+    "PicoCTF/Crypto/Crypto 2",
+    "Sin título.base",
     "Sin título.canvas",
     "2026-10-11.md",
     "PicoCTF/Crypto/Crypto 1/interencdec.md",
-    "plantilla.md",
     "PicoCTF/Crypto/Crypto 1/waves over lambda.md",
     "PicoCTF/Crypto/Crypto 1/Tapping.md",
     "PicoCTF/Crypto/Crypto 1/The Numbers.md",
@@ -224,7 +226,6 @@
     "PicoCTF/Forensic/Forensic 2/shark on wire 2.md",
     "PicoCTF/Forensic/Forensic 3",
     "PicoCTF/Forensic/Forensic 2/like1000.md",
-    "PicoCTF/Forensic/Forensic 2",
-    "PicoCTF/Primer_Examen_parcial/Web"
+    "PicoCTF/Forensic/Forensic 2"
   ]
 }
