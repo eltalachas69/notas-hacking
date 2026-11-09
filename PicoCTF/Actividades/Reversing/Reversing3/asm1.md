@@ -1,0 +1,9 @@
+## Descripción
+What does asm1(0xe9) return? Submit the flag as a hexadecimal value (starting with '0x'). NOTE: Your submission for this question will NOT be in the normal flag format. [Source](https://challenge-files.cylabacademy.net/library/6f1a5802cd61e18ff0cb88179f81fb58aa516376b68a0f4ed438eb406a5140ef/test.S)
+## Solución
+En este caso teniamos que trabajar con ensamblador que es un nivel de lenguaje muy bajo, en este caso me tuve que ver el video que mando el profe para orientarme bien ya que la verdad no tengo nada de conocimiento sobre el lenguaje ensamblador, aparte de que tambien tuve que ver como resolvieron otras personas este reto.
+En primer lugar para resolverlo el reto nos dio un valor que es `0xe9` entonces en la linea 3 nos dice que tiene comparar por el `cmp`, entonces tenemos que comparar `0xe9` con `0x339`, el `jg` nos dice que salte si es mayor, entonces `0xe9` es mayor que `0x339`, nos marca que es falso entonces saltamos a la otra linea que igual es una comparacion, `jne` nos dice que salte a la linea que nos pide si no es igual a `0x3c`, como son diferentes entonces si cumple con esa condicion y nos saltamos a la linea que nos pide que es la 26, ahi nos dice que se copia el valor que tuvimos en `eax` esto por `mov`, ahora pasamos a la siguiente linea y esta `sub` lo que nos pide es restar el dato que esta en eax con `0x8`, entonces al hacer la resta el valor que nos da es `0xe1`, pasamos a la siguiente linea y nos dice que saltemos a la linea 57, ahi es donde termina el programa y regresamos el resultado que es `0xe1`, esa es la bandera y la ponemos en el cylab y terminamos con el reto
+## Notas Adicionales 
+## Referencias
+[Video](https://www.youtube.com/watch?v=Dy-gHlymkdo&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=53)
+[Solucion del Reto](https://medium.com/@sobatistacyber/picoctf-writeups-asm1-9b0c3b406bab)
